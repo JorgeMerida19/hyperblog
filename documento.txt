@@ -1,3 +1,5 @@
 Este es nuevo documento
 
 Parte agregada para el nuevo commit
+
+Se van a agregar nuevas partes a partir de aquí
