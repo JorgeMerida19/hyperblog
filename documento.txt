@@ -2,6 +2,4 @@ Este es nuevo documento
 
 Parte agregada para el nuevo commit
 
-Se van a agregar nuevas partes a partir de aquí
-
-Se va hablar de otro tema
+Mañana nos enfocaremos en otra cosa
