@@ -41,6 +41,11 @@ body{
     font-size: 20px;
 }
 
+#ultima{
+    text-align: center;
+    color:dodgerblue;
+}
+
 #footer{
     background: #777;
     color:white;
