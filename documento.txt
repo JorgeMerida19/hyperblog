@@ -2,4 +2,6 @@ Este es nuevo documento
 
 Parte agregada para el nuevo commit
 
+Esta nueva línea se agrega desde la otra cuenta
+
 Mañana nos enfocaremos en otra cosa
