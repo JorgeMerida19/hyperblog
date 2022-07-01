@@ -2,4 +2,17 @@ Este es nuevo documento
 
 Parte agregada para el nuevo commit
 
+Esta nueva línea se agrega desde la otra cuenta
+
 Mañana nos enfocaremos en otra cosa
+Master4
+Nueva línea utilizando fork
+
+Probando rebase
+Master1
+Experimento 1
+Experimento 2
+Experimento 3
+Experimento 4
+Master3
+Experimento 2
